@@ -1,0 +1,4 @@
+command: npm run serve
+
+
+url tuto: https://openclassrooms.com/fr/courses/5664336-create-a-web-application-with-vue-js/6535063-create-a-new-project-with-vue-cli
